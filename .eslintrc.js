@@ -12,7 +12,7 @@ module.exports = {
       // waiting https://github.com/import-js/eslint-plugin-import/issues/2430
       {
         packageDir: [
-          path.join(__dirname, './packages/process')
+          path.join(__dirname, './packages/process'),
         ],
       },
     ],
